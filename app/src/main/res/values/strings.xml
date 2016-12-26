@@ -1,0 +1,29 @@
+<resources>
+    <string name="app_name">MovieFinderApp</string>
+    <string name="action_settings">Settings</string>
+
+    <string name="search_button">Find</string>
+    <string name="search_hint">Find by Movie Title</string>
+    <string name="search_type">movie</string>
+    <string name="default_poster">http://www.imdb.com/images/nopicture/medium/film.png</string>
+    <string name="snackbar_title_not_found">The movie title entered was not found</string>
+    <string name="snackbar_title_empty">Please enter a Movie Title</string>
+    <string name="network_not_available">Network not available! Please Reconnect.</string>
+    <string name="title">Title</string>
+    <string name="example_title">Harry Potter</string>
+    <string name="released">Released</string>
+    <string name="example_release">02 Nov 2012</string>
+    <string name="runtime">Runtime</string>
+    <string name="example_runtime">101 min</string>
+    <string name="director">Director</string>
+    <string name="example_director">Rowling</string>
+    <string name="Genre">Genre</string>
+    <string name="example_genre">Magical</string>
+    <string name="Writer">Writer(s)</string>
+    <string name="example_writer">Rich Moore.....</string>
+    <string name="actors">Actors</string>
+    <string name="example_actors">John C. Reilly</string>
+    <string name="plot">Plot</string>
+    <string name="example_full_plot">"Plot about Harry Potter etc....."</string>
+
+</resources>
